@@ -4,7 +4,7 @@
 
 AI models, applications and agents need owners, policies and controls that work after deployment. Kosmoy helps enterprise teams inventory their AI systems, monitor how they behave, govern access and contain agent actions.
 
-**[Explore Kosmoy](https://www.kosmoy.com/?utm_source=github&utm_medium=referral&utm_campaign=company_profile)** · **[Read the documentation](https://docs.kosmoy.com)** · **[Book a demo](https://www.kosmoy.com/demo/?utm_source=github&utm_medium=referral&utm_campaign=company_profile)**
+**[Explore Kosmoy](https://www.kosmoy.com/?utm_source=github&utm_medium=referral&utm_campaign=company_profile)** · **[Explore the AI Gateway](https://www.kosmoy.com/platform/ai-gateway/)** · **[Book a demo](https://www.kosmoy.com/demo/?utm_source=github&utm_medium=referral&utm_campaign=company_profile)**
 
 ## What you can do with Kosmoy
 
@@ -24,9 +24,9 @@ Kosmoy runs in your own Kubernetes environment, in the cloud or on premises. It 
 
 Bring one AI application or agent to a walkthrough. We can map its owner, model and tool access, policies, monitoring and runtime controls to your deployment requirements.
 
-- [Product documentation](https://docs.kosmoy.com)
+- [Platform overview](https://www.kosmoy.com/platform/)
 - [Deployment and pricing discussion](https://www.kosmoy.com/pricing/?utm_source=github&utm_medium=referral&utm_campaign=company_profile)
 - [Company updates on LinkedIn](https://www.linkedin.com/company/kosmoy/)
 - [Kosmoy on Hugging Face](https://huggingface.co/Kosmoy)
 
-This profile introduces Kosmoy and links to public product resources. Availability and licensing are described in each public repository and in the product documentation.
+This profile introduces Kosmoy and links to public product resources. Refer to individual public repositories for their licensing and to the Kosmoy website for commercial product information.
